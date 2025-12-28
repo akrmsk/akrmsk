@@ -46,9 +46,11 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ShaikAkram\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ShaikAkram\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAkram\&theme=dark\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akrmsk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=akrmsk&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akrmsk&theme=dark&hide_border=false&layout=compact)
 
 ---
 
